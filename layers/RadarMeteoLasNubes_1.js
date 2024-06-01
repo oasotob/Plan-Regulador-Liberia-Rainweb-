@@ -1,0 +1,1 @@
+var json_RadarMeteoLasNubes_1 = {"type":"FeatureCollection","name":"RadarMeteoLasNubes_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[-86.285173782697385,12.010049911464286]}}]}
